@@ -18,7 +18,7 @@ gem "stimulus-rails"
 gem "jbuilder"
 
 # Add acces to discord API for rails with discordrb [https://github.com/shardlab/discordrb]
-gem "discordrb"
+gem 'discordrb', '~> 3.5'
 # Add .env file support for rails with dotenv [https://github.com/bkeepers/dotenv]
 gem 'dotenv-rails', groups: [:development, :test]
 
