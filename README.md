@@ -1,6 +1,6 @@
 # Mindfully
 
-![mindfully_icon](https://github.com/user-attachments/assets/98b2a505-3927-4f94-886e-ef863810b4d3 | width=100)
+![mindfully_icon|100](https://github.com/user-attachments/assets/98b2a505-3927-4f94-886e-ef863810b4d3)
 
 Mindfully is a discord bot that can be used to remind people to be mindful of their health. It is always important to take a break, and this bot provides unintrusive
 reminders to keep yourself on track
